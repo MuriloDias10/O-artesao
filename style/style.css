@@ -131,8 +131,9 @@ a {
 .rodape {
     margin-top: 40px;
     padding: 25px;
-    background-color: #8b864e;
+    background-color: #A6583C;
     text-align: center;
+    color: black;
 }
 
 .rodape address {
